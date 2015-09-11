@@ -1,0 +1,27 @@
+{
+  "name": "dns-manager-ui",
+  "version": "1.0.0",
+  "description": "UI for the DNS manager project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radusecrieru/dns-manager-ui.git"
+  },
+  "keywords": [
+    "UI",
+    "material",
+    "javascript"
+  ],
+  "author": "Radu Secrieru",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/radusecrieru/dns-manager-ui/issues"
+  },
+  "homepage": "https://github.com/radusecrieru/dns-manager-ui",
+  "dependencies": {
+    "material-design-lite": "^1.0.4-2"
+  }
+}
